@@ -3,9 +3,7 @@
     <h3>An aspiring fullstack developer from Sweden.</h3>
      <a href="https://www.linkedin.com/in/leo-st%C3%A5lenhag-a58a31253/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-<img src="https://img.shields.io/badge/MailMe-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-         <a/>
-    
+<img src="https://img.shields.io/badge/MailMe-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/> 
     <br>
  <img src="https://komarev.com/ghpvc/?username=your-github-l-stal&style=flat-square&color=orange" alt=""/>
   <h2>Dev Stack.</h2>
