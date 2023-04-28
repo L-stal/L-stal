@@ -1,8 +1,9 @@
 <div id="Header" align="center">
 <img src="https://user-images.githubusercontent.com/115810719/235109585-dbdb69ac-8865-449a-a153-7e3500abcc06.png"/>  
-  <a href="https://www.linkedin.com/in/leo-st%C3%A5lenhag-a58a31253/">
     <h3>An aspiring fullstack developer from Sweden.</h3>
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>                                             <a href="">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+    <a href="https://www.linkedin.com/in/leo-st%C3%A5lenhag-a58a31253/">
+    <a href="">
 <img src="https://img.shields.io/badge/MailMe-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
     <br>
